@@ -1,0 +1,142 @@
+.nav{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px;
+    width: 85px;
+    position: fixed;
+    top: 67px;
+    bottom: 0px;
+
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 100%;
+    font-size: 12px;
+    transition: all 0.3s;
+
+}
+
+.home:hover{
+    background-color: rgb(209, 209, 209);
+    cursor: pointer;
+    
+}
+
+.exp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 100%;
+    font-size: 12px;
+    transition: all 0.3s;
+}
+
+.exp:hover{
+    background-color: rgb(209, 209, 209);
+    cursor: pointer;
+    
+}
+
+.sub{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 100%;
+    font-size: 12px;
+    transition: all 0.3s;
+}
+
+.sub:hover{
+    background-color: rgb(209, 209, 209);
+    cursor: pointer;
+    
+}
+
+.orig{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 100%;
+    font-size: 12px;
+    transition: all 0.3s;
+}
+
+.orig:hover{
+    background-color: rgb(209, 209, 209);
+    cursor: pointer;
+    
+}
+
+.ytm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 100%;
+    font-size: 12px;
+    transition: all 0.3s;
+}
+
+.ytm:hover{
+    background-color: rgb(209, 209, 209);
+    cursor: pointer;
+    
+}
+
+.lib{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 120px;
+    width: 100%;
+    font-size: 12px;
+    transition: all 0.3s;
+}
+
+.lib:hover{
+    background-color: rgb(209, 209, 209);
+    cursor: pointer;
+    
+}
+
+
+
+.Home{
+    height: 24px;
+}
+
+.Explore{
+    height: 24px;
+}
+
+.Sub{
+    height: 24px;
+}
+
+.Orig{
+    height: 24px;
+}
+
+.YTM{
+    height: 24px;
+}
+
+.Lib{
+    height: 24px;
+}
