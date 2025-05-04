@@ -36,6 +36,7 @@
     justify-content: space-between;
     margin-top: 20px;
     margin-bottom: 20px;
+    flex: 1;
     flex-shrink: 1;
     min-width: 220px;
     margin-left: 10px;
